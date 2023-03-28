@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasharo&label=Profile%20views&color=0e75b6&style=flat" alt="tomasharo" /> </p>
